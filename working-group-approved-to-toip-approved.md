@@ -9,7 +9,7 @@ flowchart TD
     C{"Submit to SC?"}
     D["Prepare SC Voting Package\n (ED+WG+TF)"]
     E{"SC\n Consensus/Vote\n to approve"}
-    F["Evaluate"]
+    F["Evaluate Next Steps\nwhy did we end up here\n(ED+WG+TF)"]
     G(Milestone\nJDF/ToIP stage:\nToIP Approved)
     H["Publish & Disseminate ToIP Approved Deliverable"]
 
@@ -21,7 +21,6 @@ flowchart TD
     E --> | No | F
     E --> | Yes | G
     G --> H
-
 
     style A fill:#BECF56,stroke:#333,color:#000,stroke-width:4px
     style G fill:#BECF56,stroke:#333,color:#000,stroke-width:4px
