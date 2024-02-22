@@ -1,3 +1,7 @@
+![High Level Process](svg/high-level-process.svg)
+<details>
+  <summary>High Level Process</summary>
+
 ```mermaid
 ---
 title: Pre-Draft to Draft
@@ -19,4 +23,4 @@ flowchart TD
     style C fill:#5099E9,stroke:#333,color:#000,stroke-width:4px
     style D fill:#BECF56,stroke:#333,color:#000,stroke-width:4px
 ```
-  
+</details>

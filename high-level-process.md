@@ -1,3 +1,7 @@
+![High Level Process](svg/high-level-process.svg)
+<details>
+  <summary>High Level Process</summary>
+
 ```mermaid
 ---
 title: High-Level Process (JDF)
@@ -16,3 +20,4 @@ flowchart LR
     style C fill:#BECF56,stroke:#333,color:#000,stroke-width:4px
     style D fill:#BECF56,stroke:#333,color:#000,stroke-width:4px
 ```
+</details>

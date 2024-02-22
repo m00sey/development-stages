@@ -1,6 +1,10 @@
+![Draft to Working Group Approved](svg/draft-to-working-group-approved.svg)
+<details>
+  <summary>Draft to Working Group Approved</summary>
+
 ```mermaid
 ---
-title: Pre-Draft to Draft
+title: Draft to Working Group Approved
 ---
 
 flowchart TD
@@ -55,4 +59,4 @@ flowchart TD
     style L fill:#5099E9,stroke:#333,color:#000,stroke-width:4px
     style K fill:#5099E9,stroke:#333,color:#000,stroke-width:4px
 ```
-  
+<details>
